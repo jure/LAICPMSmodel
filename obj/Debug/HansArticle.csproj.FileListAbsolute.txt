@@ -1,0 +1,17 @@
+C:\Documents and Settings\John Doe\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\John Doe\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\John Doe\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\John Doe\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\HansArticle.csproj.GenerateResource.Cache
+C:\Documents and Settings\John Doe\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\bin\Debug\HansArticle.exe
+C:\Documents and Settings\John Doe\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\bin\Debug\HansArticle.pdb
+C:\Documents and Settings\John Doe\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\HansArticle.exe
+C:\Documents and Settings\John Doe\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\HansArticle.pdb
+C:\Documents and Settings\Jure\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\HansArticle.exe
+C:\Documents and Settings\Jure\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\HansArticle.pdb
+C:\Documents and Settings\Jure\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jure\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Jure\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\HansArticle.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jure\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\bin\Debug\HansArticle.exe
+C:\Documents and Settings\Jure\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\bin\Debug\HansArticle.pdb
+C:\Documents and Settings\Jure\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\WindowsFormsApplication1.MainWindow.resources
+C:\Documents and Settings\Jure\My Documents\Visual Studio 2008\Projects\HansArticle\HansArticle\obj\Debug\WindowsFormsApplication1.NoiseSettings.resources
